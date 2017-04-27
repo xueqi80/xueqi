@@ -3,8 +3,6 @@ spring boot 实践学习案例，是 spring boot 初学者及核心技术巩固�
 
 参考自作者：[泥瓦匠BYSocket](http://www.bysocket.com/ "泥瓦匠BYSocket")<br>
 
-
-
 ## 一、项目结构
 「Spring Boot 那些事」：[传送门](http://www.bysocket.com/?page_id=1639 "Spring Boot 那些事")<br>
 
