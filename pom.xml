@@ -18,7 +18,8 @@
 		<module>springboot-dubbo-client</module>
 		<module>springboot-validation-over-json</module>
 		<module>springboot-elasticsearch</module>
-
+		<module>springboot-dubbo-model</module>
+		<module>springboot-dubbo-myinterface</module>
 		<!-- 基础 – 入门篇 -->
 		<!-- Spring Boot 之 HelloWorld 详解 -->
 		<module>springboot-helloworld</module>
@@ -27,6 +28,8 @@
 
 		<!-- 基础 - Web 业务开发篇 -->
 
+
+		<module>springboot-quartz</module>
 	</modules>
 
 </project>
